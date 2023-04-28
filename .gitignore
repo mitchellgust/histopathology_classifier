@@ -4,6 +4,7 @@
 
 # IntelliJ Files
 /.ipynb_checkpoints
+/.idea
 
 # unzipped file
 image_classification_data
